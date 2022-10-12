@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+background-color: white;
+
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+
+}
+.top{
+    width: 700px;
+    height: 250px;
+   
+}
+.pic{
+    width: 10px;
+    margin-left: 110px;
+}
+.pic img{
+    width: 170px;
+    
+}
+
+main input[type="text"]{
+    width: 280px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding: 10px;
+    text-decoration: none;
+}
+button{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: rgb(157, 217, 218);
+
+    color: white;
+}
+p{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+form input[type= "text"] {
+    width: 300px;
+    height: 150px;
+}
+main{
+    background-color: white;
+    width: 400px;
+    height: 420px;
+    margin-top: 30px;
+    margin-left: 500px;
+    margin-bottom: 250px;
+    border: 1px solid rgb(221, 220, 220)
+
+
+
+}
+.mid{
+    width: 400px;
+    height: 50px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+   width: 20px;
+   height: 40px;
+   margin-left: 80px;
+
+
+}
+.logo img{
+    width: 35px;
+    padding-bottom: 20px;
+}
+.tool{
+
+width: 200px;
+height: 10px;
+margin-right: 50px;
+margin-left: 30px;
+}
+.tool a{
+    text-decoration: none;
+}
+.frog{
+    width: 180px;
+    height: 50px;
+    margin-left: 150px;
+}
+.frog a{
+    text-decoration: none;
+}
+.below{
+    display: flex;
+    /* background-color: black; */
+    border: 1px solid rgb(221, 220, 220);
+    width: 400px;
+    height: 40px;
+    margin-top: 0px;
+}
+.right{
+    width: 100px;
+    height: 20px;
+    margin-top: 10px;
+}
+.left{
+    width: 180px;
+    height: 20px;
+    margin-left: 80px;
+
+
+}
+.left p{
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+.right a{
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+.para{
+    text-align: center;
+    margin-top: 10px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 70px;
+    margin-top: 20px;
+}
+.img1{
+    width: 80px;
+    height: 15px;
+    margin-left: 100px;
+}
+.img1 img{
+   width: 80px;
+   height: 20px;
+   margin-left: 40px;
+}
+.img2{
+    width: 50px;
+    height: 15px;
+    margin-left: 50px;
+    margin-right: 60px;
+
+}
+.img2 img{
+    width: 60px;
+    height: 20px;
+    margin-right: 20px;
+}
